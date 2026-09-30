@@ -1,0 +1,237 @@
+{
+  "total_verbs": 676,
+  "pages_processed": 26,
+  "page_status": {
+    "1": "ok(0)",
+    "2": "ok(26)",
+    "3": "ok(28)",
+    "4": "ok(28)",
+    "5": "ok(28)",
+    "6": "ok(28)",
+    "7": "ok(28)",
+    "8": "ok(28)",
+    "9": "ok(28)",
+    "10": "ok(28)",
+    "11": "ok(28)",
+    "12": "ok(28)",
+    "13": "ok(28)",
+    "14": "ok(28)",
+    "15": "ok(28)",
+    "16": "ok(28)",
+    "17": "ok(28)",
+    "18": "ok(28)",
+    "19": "ok(28)",
+    "20": "ok(28)",
+    "21": "ok(28)",
+    "22": "ok(28)",
+    "23": "ok(28)",
+    "24": "ok(28)",
+    "25": "ok(28)",
+    "26": "ok(7)"
+  },
+  "per_letter": {
+    "A": 89,
+    "B": 39,
+    "C": 66,
+    "D": 38,
+    "E": 22,
+    "F": 23,
+    "G": 14,
+    "H": 8,
+    "I": 19,
+    "J": 8,
+    "K": 11,
+    "L": 27,
+    "M": 18,
+    "N": 21,
+    "O": 19,
+    "P": 70,
+    "Q": 6,
+    "R": 46,
+    "S": 47,
+    "T": 28,
+    "U": 14,
+    "V": 11,
+    "W": 21,
+    "Y": 7,
+    "Z": 4
+  },
+  "empty_letters": [
+    "X"
+  ],
+  "needs_review_count": 4,
+  "needs_review": [
+    {
+      "id": "burst",
+      "page": 6,
+      "reason": "missing sindhi or possibly-guessed forms"
+    },
+    {
+      "id": "cut",
+      "page": 8,
+      "reason": "missing sindhi or possibly-guessed forms"
+    },
+    {
+      "id": "let",
+      "page": 14,
+      "reason": "missing sindhi or possibly-guessed forms"
+    },
+    {
+      "id": "put",
+      "page": 19,
+      "reason": "missing sindhi or possibly-guessed forms"
+    }
+  ],
+  "sample_entries": [
+    {
+      "id": "abandon",
+      "forms": [
+        "abandon",
+        "abandoned",
+        "abandoned"
+      ],
+      "sindhi": "ڇڏي ڇڏ",
+      "page": 2
+    },
+    {
+      "id": "abdicate",
+      "forms": [
+        "abdicate",
+        "abdicated",
+        "abdicated"
+      ],
+      "sindhi": "استعفا ڏيڻ",
+      "page": 2
+    },
+    {
+      "id": "abduct",
+      "forms": [
+        "abduct",
+        "abducted",
+        "abducted"
+      ],
+      "sindhi": "اغوا ڪرڻ",
+      "page": 2
+    },
+    {
+      "id": "abide",
+      "forms": [
+        "abide",
+        "abode",
+        "abode"
+      ],
+      "sindhi": "پابند رهڻ",
+      "page": 2
+    },
+    {
+      "id": "abolish",
+      "forms": [
+        "abolish",
+        "abolished",
+        "abolished"
+      ],
+      "sindhi": "ختم ڪرڻ",
+      "page": 2
+    },
+    {
+      "id": "abscond",
+      "forms": [
+        "abscond",
+        "absconded",
+        "absconded"
+      ],
+      "sindhi": "ڀڄي وڃڻ",
+      "page": 2
+    },
+    {
+      "id": "absent",
+      "forms": [
+        "absent",
+        "absented",
+        "absented"
+      ],
+      "sindhi": "غير حاضر، رهجي وڃڻ",
+      "page": 2
+    },
+    {
+      "id": "absorb",
+      "forms": [
+        "absorb",
+        "absorbed",
+        "absorbed"
+      ],
+      "sindhi": "جذب ڪرڻ، ضميمه ڪرڻ",
+      "page": 2
+    },
+    {
+      "id": "abstain",
+      "forms": [
+        "abstain",
+        "abstained",
+        "abstained"
+      ],
+      "sindhi": "بهرجڻ ڪرڻ",
+      "page": 2
+    },
+    {
+      "id": "abuse",
+      "forms": [
+        "abuse",
+        "abused",
+        "abused"
+      ],
+      "sindhi": "گاليون ڏيڻ",
+      "page": 2
+    },
+    {
+      "id": "accelerate",
+      "forms": [
+        "accelerate",
+        "accelerated",
+        "accelerated"
+      ],
+      "sindhi": "تيز ڪرڻ، تيزوارو ڪار",
+      "page": 2
+    },
+    {
+      "id": "accept",
+      "forms": [
+        "accept",
+        "accepted",
+        "accepted"
+      ],
+      "sindhi": "قبول ڪرڻ",
+      "page": 2
+    },
+    {
+      "id": "accommodate",
+      "forms": [
+        "accommodate",
+        "accommodated",
+        "accommodated"
+      ],
+      "sindhi": "تھآباد",
+      "page": 2
+    },
+    {
+      "id": "accomplish",
+      "forms": [
+        "accomplish",
+        "accomplished",
+        "accomplished"
+      ],
+      "sindhi": "مڪمل ڪرڻ",
+      "page": 2
+    },
+    {
+      "id": "accurate",
+      "forms": [
+        "accurate",
+        "accurated",
+        "accurated"
+      ],
+      "sindhi": "صحيح ڪرڻ، رسائي ڪرڻ",
+      "page": 2
+    }
+  ]
+}

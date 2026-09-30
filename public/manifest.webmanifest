@@ -1,0 +1,39 @@
+{
+  "name": "VerbMaster – English Verbs Learning",
+  "short_name": "VerbMaster",
+  "description": "Learn English verb forms and meanings (with Sindhi) — flashcards, quizzes, pronunciation, oral tests, and a friendly AI teacher. Works offline.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    { "name": "Today's Lesson", "url": "/?view=daily", "short_name": "Lesson" },
+    { "name": "Flashcards", "url": "/?view=flashcards", "short_name": "Cards" },
+    { "name": "Chapters", "url": "/?view=chapters", "short_name": "Chapters" }
+  ]
+}
